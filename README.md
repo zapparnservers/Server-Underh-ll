@@ -5,7 +5,7 @@ Allt som görs och ska göras på servrarna ska loggas här. Vid genomförande a
 
 - [x] Korrigera allt efter ip bytet 2016-06-02   Upplagt: 2016-06-03 Fixat: 2016-06-03 // Jag bytte ut gamla ipn mot den nya i sourcebans, alla database.cfg på alla servrar och även uppdatera den hos vår redirect tjänst 
 
-- [ ] *1 Migrera sourcebans databasen till dathost   Upplagt: 2016-06-03
+- [ ] __*1__ Migrera sourcebans databasen till dathost   Upplagt: 2016-06-03
 
 - [ ] Fixa email smtp stöd på sourcebans   Upplagt: 2016-06-03
 
@@ -27,7 +27,7 @@ __*1 delvis klart__
 
 - [ ] Fixa calladmin plugin som informerar admins om problem på servrarna  Upplagt: 2016-06-03
 
-###SURF SERVER
+###Surf
 
 - [ ] Fixa alla zoner  Upplagt: 2016-06-03
 
@@ -47,7 +47,7 @@ __*1 delvis klart__
 
 ###Arena
 
-##Jailbreak
+###Jailbreak
 
-##KZ
+###KZ
 
