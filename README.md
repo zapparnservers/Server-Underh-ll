@@ -7,7 +7,7 @@ Allt generellt med servrarna.
 -
 -
 -
-[x]Korrigera allt efter ip bytet 2016-06-02   Upplagt: 2016-06-03
+[x]Korrigera allt efter ip bytet 2016-06-02   Upplagt: 2016-06-03 Fixat: 2016-06-03 // Jag bytte ut gamla ipn mot den nya i sourcebans, alla database.cfg på alla servrar och även uppdatera den hos vår redirect tjänst 
 
 [ ]*1 Migrera sourcebans databasen till dathost   Upplagt: 2016-06-03
 
