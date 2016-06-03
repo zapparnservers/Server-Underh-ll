@@ -1,4 +1,4 @@
-# Server-Underh-ll
+# Server-todo
 Allt som görs och ska göras på servrarna ska loggas här. Vid genomförande av en viss punkt kommentera bredvid vad du gjorde för att fixa det.
 
 Allt generellt med servrarna.
