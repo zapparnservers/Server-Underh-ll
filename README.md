@@ -7,7 +7,7 @@ Allt som görs och ska göras på servrarna ska loggas här. Vid genomförande a
 
 - [ ] __*1__ Migrera sourcebans databasen till dathost   Upplagt: 2016-06-03
 
-- [x] Fixa channel permissions i ts3 Upplagt: 2016-06-05// jag har gjort att ingen med mindre än 75 i power på zapparn&companys ts3 kan längre ladda upp några filer i någon av våra ts3 kanaler den 5 juni 2016 (2016-06-05)// RASTAMAN 
+- [x] Fixa channel permissions i ts3 Upplagt: 2016-06-05 Fixat: 2016-06-05 // Fixat av RASTAMAN. Jag har gjort så att ingen med mindre än 75 i power på zapparn&companys ts3 kan längre ladda upp några filer i våra ts3 kanaler  
 
 - [ ] Fixa email smtp stöd på sourcebans   Upplagt: 2016-06-03
 
