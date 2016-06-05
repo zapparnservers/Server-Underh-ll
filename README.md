@@ -19,7 +19,7 @@ Allt som görs och ska göras på servrarna ska loggas här. Vid genomförande a
 
 - [ ] Fixa ny host för fastdl  Upplagt: 2016-06-03
 
-- [ ] Uppdatera lösenord i TeamViewer på alla server datorer  Upplagt: 2016-06-04
+- [x] Uppdatera lösenord i TeamViewer på alla server datorer  Upplagt: 2016-06-04 Fixat: 2016-06-05
 
 __*1 delvis klart__
 
