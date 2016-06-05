@@ -7,6 +7,8 @@ Allt som görs och ska göras på servrarna ska loggas här. Vid genomförande a
 
 - [ ] __*1__ Migrera sourcebans databasen till dathost   Upplagt: 2016-06-03
 
+- [ ] Fixa channel permissions i ts3 Upplagt: 2016-06-05 
+
 - [ ] Fixa email smtp stöd på sourcebans   Upplagt: 2016-06-03
 
 - [ ] Fixa steam login på sourcebans   Upplagt: 2016-06-03
