@@ -47,6 +47,10 @@ __*1 delvis klart__
 
 ###Bhop
 
+- [ ] Lägga till stages  Upplagt: 2016-06-06
+
+- [ ] Lägga till maps   Upplagt: 2016-06-06
+- 
 ###Retake
 
 ###Arena
@@ -59,32 +63,32 @@ __*1 delvis klart__
 ###Maplistor
 
 ###Bhop
-- [ ] bhop_
-- [ ] bhop_
-- [ ] bhop_
-- [ ] bhop_
-- [ ] bhop_
-- [ ] bhop_
-- [ ] bhop_
-- [ ] bhop_
-- [ ] bhop_
-- [ ] bhop_
-- [ ] bhop_
-- [ ] bhop_
-- [ ] bhop_
-- [ ] bhop_
-- [ ] bhop_
-- [ ] bhop_
-- [ ] bhop_
-- [ ] bhop_
-- [ ] bhop_
-- [ ] bhop_
-- [ ] bhop_
-- [ ] bhop_
-- [ ] bhop_
-- [ ] bhop_
-- [ ] bhop_
-- [ ] bhop_
+- [ ] bhop_ infog_finale
+- [ ] bhop_yuna
+- [ ] bhop_andromeia csgo
+- [ ] bhop_blend_rg1
+- [ ] bhop_dunk
+- [ ] bhop_dicso
+- [ ] bhop_cutekittenz2
+- [ ] bhop inmomentum_gfl_finale
+- [ ] bhop_enigma
+- [ ] bhop_freakin
+- [ ] bhop_fruits2
+- [ ] bhop_haddock
+- [ ] bhop_splrez_fix
+- [ ] bhop_turkswetdream
+- [ ] bhop_strafe_azure
+- [ ] bhop_scrollcity
+- [ ] bhop_ocean
+- [ ] bhop_nira
+- [ ] bhop_illusionary
+- [ ] bhop__0
+- [ ] bhop_aamu
+- [ ] bhop_aimers_hell
+- [ ] bhop_cutetraps
+- [ ] bhop_dreamtour2
+- [ ] bhop_gofuckyourself
+- [ ] bhop_idosyncrasy
 - [ ] bhop_
 - [ ] bhop_
 - [ ] bhop_
