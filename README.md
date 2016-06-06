@@ -55,3 +55,58 @@ __*1 delvis klart__
 
 ###KZ
 
+
+###Maplistor
+
+###Bhop
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+- [ ] bhop_
+
