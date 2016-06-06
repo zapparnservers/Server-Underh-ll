@@ -63,33 +63,32 @@ __*1 delvis klart__
 ###Maplistor
 
 ###Bhop
-- [ ] bhop_ infog_final
-- [ ] bhop_yuna
-- [ ] bhop_andromeda_csgo
-- [ ] bhop_blend_rg1
-- [ ] bhop_dunk
-- [ ] bhop_disco
-- [ ] bhop_cutekittenz2
-- [ ] bhop inmomentum_gfl_final
-- [ ] bhop_enigma
-- [ ] bhop_freakin
-- [ ] bhop_fruits2
-- [ ] bhop_haddock
-- [ ] bhop_splrez_fix
-- [ ] bhop_turkswetdream
-- [ ] bhop_strafe_azure
-- [ ] bhop_scrollcity
-- [ ] bhop_ocean
-- [ ] bhop_nira
-- [ ] bhop_illusionary
-- [ ] bhop__0
+- [ ] bhop_0
 - [ ] bhop_aamu
-- [ ] bhop_aimers_hell
-- [ ] bhop_cutetraps
-- [ ] bhop_dreamtour2
+- [x] bhop_aimers_hell //ska inte läggas in
+- [x] bhop_andromeda_csgo //ska läggas in
+- [x] bhop_blend_rg1 //ska läggas in
+- [x] bhop_cutekittenz2 /ska läggas in
+- [x] bhop_cutetraps //ska läggas in
+- [x] bhop_disco //ska läggas in
+- [x] bhop_dreamtour2 //måste fixas innan vi lägger in den
+- [x] bhop_dunk //ska läggas in
+- [ ] bhop_enigma
+- [x] bhop_freakin //ska läggas in
+- [ ] bhop_fruits2
 - [ ] bhop_gofuckyourself
-- [ ] bhop_idiosyncrasy
-- [ ] bhop_
+- [ ] bhop_haddock
+- [x] bhop_idiosyncrasy //måste fixas innan vi lägger in den
+- [x] bhop_ infog_final //ska läggas in
+- [x] bhop_illusionary //ska läggas in
+- [ ] bhop inmomentum_gfl_final
+- [x] bhop_nira //ska läggas
+- [ ] bhop_ocean
+- [ ] bhop_scrollcity
+- [ ] bhop_splrez_fix
+- [ ] bhop_strafe_azure
+- [ ] bhop_turkswetdream
+- [ ] bhop_yuna
 - [ ] bhop_
 - [ ] bhop_
 - [ ] bhop_
