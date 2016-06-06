@@ -64,7 +64,7 @@ __*1 delvis klart__
 
 ###Bhop
 - [ ] bhop_0
-- [ ] bhop_aamu
+- [x] bhop_aamu //ska läggas in
 - [x] bhop_aimers_hell //ska inte läggas in
 - [x] bhop_andromeda_csgo //ska läggas in
 - [x] bhop_blend_rg1 //ska läggas in
