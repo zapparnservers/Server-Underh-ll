@@ -76,7 +76,7 @@ __*1 delvis klart__
 - [x] bhop_enigma //ska läggas in
 - [x] bhop_freakin //ska läggas in
 - [ ] bhop_fruits2
-- [ ] bhop_gofuckyourself //ska läggas in
+- [x] bhop_gofuckyourself //ska läggas in
 - [x] bhop_haddock //ska läggas in
 - [x] bhop_idiosyncrasy //måste fixas innan vi lägger in den
 - [x] bhop_ infog_final //ska läggas in
