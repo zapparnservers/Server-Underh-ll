@@ -63,14 +63,14 @@ __*1 delvis klart__
 ###Maplistor
 
 ###Bhop
-- [ ] bhop_ infog_finale
+- [ ] bhop_ infog_final
 - [ ] bhop_yuna
-- [ ] bhop_andromeia csgo
+- [ ] bhop_andromeda_csgo
 - [ ] bhop_blend_rg1
 - [ ] bhop_dunk
-- [ ] bhop_dicso
+- [ ] bhop_disco
 - [ ] bhop_cutekittenz2
-- [ ] bhop inmomentum_gfl_finale
+- [ ] bhop inmomentum_gfl_final
 - [ ] bhop_enigma
 - [ ] bhop_freakin
 - [ ] bhop_fruits2
@@ -88,7 +88,7 @@ __*1 delvis klart__
 - [ ] bhop_cutetraps
 - [ ] bhop_dreamtour2
 - [ ] bhop_gofuckyourself
-- [ ] bhop_idosyncrasy
+- [ ] bhop_idiosyncrasy
 - [ ] bhop_
 - [ ] bhop_
 - [ ] bhop_
