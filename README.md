@@ -73,11 +73,11 @@ __*1 delvis klart__
 - [x] bhop_disco //ska läggas in
 - [x] bhop_dreamtour2 //måste fixas innan vi lägger in den
 - [x] bhop_dunk //ska läggas in
-- [ ] bhop_enigma
+- [x] bhop_enigma //ska läggas in
 - [x] bhop_freakin //ska läggas in
 - [ ] bhop_fruits2
-- [ ] bhop_gofuckyourself
-- [ ] bhop_haddock
+- [ ] bhop_gofuckyourself //ska läggas in
+- [x] bhop_haddock //ska läggas in
 - [x] bhop_idiosyncrasy //måste fixas innan vi lägger in den
 - [x] bhop_ infog_final //ska läggas in
 - [x] bhop_illusionary //ska läggas in
