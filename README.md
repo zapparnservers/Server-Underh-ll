@@ -60,7 +60,7 @@ __*1 delvis klart__
 ###KZ
 
 
-###Maplistor
+###TEST Maplistor
 
 ###Bhop
 - [ ] bhop_0
