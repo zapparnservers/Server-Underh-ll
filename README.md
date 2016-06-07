@@ -47,10 +47,10 @@ __*1 delvis klart__
 
 ###Bhop
 
-- [ ] Lägga till stages  Upplagt: 2016-06-06
+- [ ] Lägga till stages på alla maps som behöver de Upplagt: 2016-06-06
 
-- [ ] Lägga till maps   Upplagt: 2016-06-06
-- 
+- [ ] Lägga till maps från våran test maplista   Upplagt: 2016-06-06
+
 ###Retake
 
 ###Arena
