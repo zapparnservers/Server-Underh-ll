@@ -33,7 +33,7 @@ __*1 delvis klart__
 
 ###Surf
 
-- [ ] Fixa alla zoner  Upplagt: 2016-06-03
+- [x] Fixa alla zoner  Upplagt: 2016-06-03 Fixat: 2016-06-08 // Alla mappar har blivit zonade av mini.
 
 - [ ] Lägga in nya maps  Upplagt: 2016-06-03
 
