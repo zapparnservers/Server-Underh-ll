@@ -91,7 +91,7 @@ __*1 delvis klart__
 - [ ] bhop_strafe_azure
 - [ ] bhop_turkswetdream
 - [x] bhop_yuna //ska läggas in
-- [ ] bhop_
+- [x] bhop_nubia //ska läggas in
 - [ ] bhop_
 - [ ] bhop_
 - [ ] bhop_
