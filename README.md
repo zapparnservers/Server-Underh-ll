@@ -51,6 +51,8 @@ __*1 delvis klart__
 
 - [ ] Lägga till maps från våran test maplista   Upplagt: 2016-06-06
 
+- [ ] Uppdatera maplistan i github med de nyaste mapparna Upplagt: 2016-06-08
+
 ###Retake
 
 ###Arena
@@ -63,7 +65,7 @@ __*1 delvis klart__
 ###TEST Maplistor
 
 ###Bhop
-- [ ] bhop_0
+- [x] bhop_0 //ska inte läggas in (den kraschar spelet ifall man tabbar ut)
 - [x] bhop_aamu //ska läggas in
 - [x] bhop_aimers_hell //ska inte läggas in
 - [x] bhop_andromeda_csgo //ska läggas in
@@ -82,13 +84,13 @@ __*1 delvis klart__
 - [x] bhop_ infog_final //ska läggas in
 - [x] bhop_illusionary //ska läggas in
 - [ ] bhop inmomentum_gfl_final
-- [x] bhop_nira //ska läggas
-- [ ] bhop_ocean
+- [x] bhop_nira //ska läggas in
+- [x] bhop_ocean //ska läggas in
 - [ ] bhop_scrollcity
-- [ ] bhop_splrez_fix
+- [x] bhop_splrez_fix //ska läggas in
 - [ ] bhop_strafe_azure
 - [ ] bhop_turkswetdream
-- [ ] bhop_yuna
+- [x] bhop_yuna //ska läggas in
 - [ ] bhop_
 - [ ] bhop_
 - [ ] bhop_
