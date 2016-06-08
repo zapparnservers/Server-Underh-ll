@@ -66,10 +66,10 @@ __*1 delvis klart__
 
 ###Bhop
 - [x] bhop_0 //ska inte läggas in (den kraschar spelet ifall man tabbar ut)
-- [x] bhop_aamu //ska läggas in
+- [x] bhop_aamu //ska läggas in Fixat: 2016-06-09 // Har nu lagts in
 - [x] bhop_aimers_hell //ska inte läggas in
-- [x] bhop_andromeda_csgo //ska läggas in
-- [x] bhop_blend_rg1 //ska läggas in
+- [x] bhop_andromeda //ska läggas in Fixat: 2016-06-09 // Har nu lagts in
+- [x] bhop_blend_rg1 //ska läggas in Fixat: 2016-06-09 // Har nu lagts in
 - [x] bhop_cutekittenz2 /ska läggas in
 - [x] bhop_cutetraps //ska läggas in
 - [x] bhop_disco //ska läggas in
@@ -78,11 +78,11 @@ __*1 delvis klart__
 - [x] bhop_enigma //ska läggas in
 - [x] bhop_freakin //ska läggas in
 - [ ] bhop_fruits2
-- [x] bhop_gofuckyourself //ska läggas in
+- [x] bhop_gofuckyourself //ska läggas in Fixat: 2016-06-09 // Har nu lagts in
 - [x] bhop_haddock //ska läggas in
 - [x] bhop_idiosyncrasy //måste fixas innan vi lägger in den
 - [x] bhop_ infog_final //ska läggas in
-- [x] bhop_illusionary //ska läggas in
+- [x] bhop_illusionary //ska läggas in Fixat: 2016-06-09 // Har nu lagts in
 - [ ] bhop inmomentum_gfl_final
 - [x] bhop_nira //ska läggas in
 - [x] bhop_ocean //ska läggas in
@@ -90,9 +90,9 @@ __*1 delvis klart__
 - [x] bhop_splrez_fix //ska läggas in
 - [ ] bhop_strafe_azure
 - [ ] bhop_turkswetdream
-- [x] bhop_yuna //ska läggas in
-- [x] bhop_nubia //ska läggas in
-- [ ] bhop_
+- [x] bhop_yuna //ska läggas in 
+- [x] bhop_nubia_fix //ska läggas in Fixat: 2016-06-09 // Har nu lagts in
+- [x] bhop_adventure_final_rg1 //ska läggas in Fixat: 2016-06-09 // Har nu lagts in
 - [ ] bhop_
 - [ ] bhop_
 - [ ] bhop_
