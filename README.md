@@ -4,4 +4,4 @@
 
 
 
-- [ ] Din hastighet begränsas till 320 när du rejoinar bhop servern. Den bästa lösningen på problemet just nu är att starta om din tid med "!r".
+- [ ] Hastigheten begränsas till 320 när personer rejoinar bhop servern. Den bästa lösningen på problemet just nu är att starta om tiden med "!r".
