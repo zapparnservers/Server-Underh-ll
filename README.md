@@ -81,7 +81,7 @@ __*1 delvis klart__
 - [x] bhop_gofuckyourself //ska läggas in Fixat: 2016-06-09 // Har nu lagts in
 - [x] bhop_haddock //ska läggas in
 - [x] bhop_idiosyncrasy //måste fixas innan vi lägger in den
-- [x] bhop_ infog_final //ska läggas in
+- [x] bhop_ infog_final //ska läggas in Fixat: 2016-06-13 // Har nu lagts in
 - [x] bhop_illusionary //ska läggas in Fixat: 2016-06-09 // Har nu lagts in
 - [ ] bhop inmomentum_gfl_final
 - [x] bhop_nira //ska läggas in
