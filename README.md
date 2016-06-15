@@ -79,7 +79,7 @@ __1__ delvis klart
 - [ ] bhop_fruits2
 - [x] bhop_gofuckyourself //ska läggas in Fixat: 2016-06-09 // Har nu lagts in
 - [x] bhop_haddock //ska läggas in
-- [x] bhop_idiosyncrasy //måste fixas innan vi lägger in den
+- [x] bhop_idiosyncrasy //måste fixas innan vi lägger in den Fixat: 2016-06-15 //Har nu lagts in och fungerar bra
 - [x] bhop_ infog_final //ska läggas in Fixat: 2016-06-13 // Har nu lagts in
 - [x] bhop_illusionary //ska läggas in Fixat: 2016-06-09 // Har nu lagts in
 - [ ] bhop inmomentum_gfl_final
