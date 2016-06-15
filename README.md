@@ -25,6 +25,7 @@ Allt som görs och ska göras på servrarna ska loggas här. Vid genomförande a
 
 __1__ delvis klart
 ###Alla spelservrar
+- [ ] Claima alla servrar på gametracker och lägg upp eventuella servrar som inte är uppe där ännu Upplagt: 2016-06-15
 
 - [ ] Fixa server annoucements så de visar aktuella commands för specifik server.  Upplagt: 2016-06-03
 
