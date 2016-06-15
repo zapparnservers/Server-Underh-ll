@@ -5,7 +5,7 @@ Allt som görs och ska göras på servrarna ska loggas här. Vid genomförande a
 
 - [x] Korrigera allt efter ip bytet 2016-06-02   Upplagt: 2016-06-03 Fixat: 2016-06-03 // Jag bytte ut gamla ipn mot den nya i sourcebans, alla database.cfg på alla servrar och även uppdatera den hos vår redirect tjänst 
 
-- [ ] __*1__ Migrera sourcebans databasen till dathost   Upplagt: 2016-06-03
+- [x]  Migrera sourcebans databasen till dathost   Upplagt: 2016-06-03 Fixat: 2016-06-15 // Databasen ligger nu på dathost
 
 - [x] Fixa channel permissions i ts3 Upplagt: 2016-06-05 Fixat: 2016-06-05 // Fixat av RASTAMAN. Jag har gjort så att ingen med mindre än 75 i power på zapparn&companys ts3 kan längre ladda upp några filer i våra ts3 kanaler  
 
@@ -13,18 +13,17 @@ Allt som görs och ska göras på servrarna ska loggas här. Vid genomförande a
 
 - [ ] Fixa steam login på sourcebans   Upplagt: 2016-06-03
 
-- [ ] Flytta minigame och bhop till dathost  Upplagt: 2016-06-03 
+- [ ] __*1__ Flytta minigame och bhop till dathost  Upplagt: 2016-06-03 
 
 - [ ] Flytta teamspeak servern till en ny host   Upplagt: 2016-06-03
 
-- [ ] Flytta sourcebans hemsida till ny host   Upplagt: 2016-06-03
+- [x] Flytta sourcebans hemsida till ny host   Upplagt: 2016-06-03 Fixat: 2016-06-15
 
-- [ ] Fixa ny host för fastdl  Upplagt: 2016-06-03
+- [x] Fixa ny host för fastdl  Upplagt: 2016-06-03 Fixat: 2016-06-15
 
 - [x] Uppdatera lösenord i TeamViewer på alla server datorer  Upplagt: 2016-06-04 Fixat: 2016-06-05
 
-__*1 delvis klart__
-
+__1__ delvis klart
 ###Alla spelservrar
 
 - [ ] Fixa server annoucements så de visar aktuella commands för specifik server.  Upplagt: 2016-06-03
