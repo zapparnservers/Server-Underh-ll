@@ -51,10 +51,10 @@ __1__ delvis klart
 
 - [ ] Lägga till maps från våran test maplista   Upplagt: 2016-06-06
 
-- [ ] Uppdatera maplistan i github med de nyaste mapparna Upplagt: 2016-06-08
+- [ ] uppdatera maplistan i github med de nyaste mapparna Upplagt: 2016-06-08
 
 ###Retake
-
+- [ ] Lägga in nya medelanden i chatten. Ex, skriv !rank för att se din KDR, skriv !top för att se vart du ligger på scoreboarden av alla spelare.
 ###Arena
 
 ###Jailbreak
