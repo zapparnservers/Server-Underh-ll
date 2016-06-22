@@ -54,7 +54,7 @@ __1__ delvis klart
 - [ ] uppdatera maplistan i github med de nyaste mapparna Upplagt: 2016-06-08
 
 ###Retake
-- [ ] Lägga in nya medelanden i chatten. Ex, skriv !rank för att se din KDR, skriv !top för att se vart du ligger på scoreboarden av alla spelare.
+
 ###Arena
 
 ###Jailbreak
