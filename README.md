@@ -54,6 +54,7 @@ __1__ delvis klart
 - [ ] uppdatera maplistan i github med de nyaste mapparna Upplagt: 2016-06-08
 
 ###Retake
+- [ ] fixa till nya meningar och få meningen "gå med i steamgruppen skriv" 2016-07-09
 
 ###Arena
 
